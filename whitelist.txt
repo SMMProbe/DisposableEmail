@@ -2,14 +2,9 @@ spamgourmet.com
 139.com
 420blaze.it
 8chan.co
-aaathats3as.com
 airsi.de
 antichef.com
 antichef.net
-cocaine.ninja
-cock.email
-cock.li
-cock.lu
 cumallover.me
 dfgh.net
 dicksinhisan.us
@@ -17,7 +12,6 @@ dicksinmyan.us
 fastmessaging.com
 getbackinthe.kitchen
 hitler.rocks
-horsefucker.org
 hush.ai
 hush.com
 hushmail.com
@@ -25,7 +19,6 @@ kennedy808.com
 liamekaens.com
 mail2world.com
 mailhaven.com
-memeware.net
 neverbox.com
 nigge.rs
 nospammail.net
@@ -56,6 +49,7 @@ xoxy.net
 2-mail.com
 4email.net
 50mail.com
+aaathats3as.com
 airmail.cc
 airpost.net
 allmail.net
@@ -63,6 +57,10 @@ bestmail.us
 bluewin.ch
 c2.hu
 cluemail.com
+cocaine.ninja
+cock.email
+cock.li
+cock.lu
 elitemail.org
 emailcorner.net
 emailengine.net
@@ -110,6 +108,7 @@ gmx.us
 goat.si
 h-mail.us
 hailmail.net
+horsefucker.org
 hushmail.me
 imap-mail.com
 imap.cc
@@ -140,6 +139,7 @@ mailsent.net
 mailservice.ms
 mailup.net
 mailworks.org
+memeware.net
 ml1.net
 mm.st
 mozmail.com
