@@ -1,5 +1,4 @@
 spamgourmet.com
-139.com
 420blaze.it
 8chan.co
 airsi.de
@@ -44,6 +43,7 @@ xmail.com
 xoxy.net
 123mail.org
 126.com
+139.com
 150mail.com
 150ml.com
 163.com
